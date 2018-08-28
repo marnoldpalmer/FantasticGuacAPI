@@ -1,0 +1,24 @@
+{
+  "name": "stadium-food-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattArnold93/FantasticGuacAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattArnold93/FantasticGuacAPI/issues"
+  },
+  "homepage": "https://github.com/MattArnold93/FantasticGuacAPI#readme",
+  "dependencies": {
+    "apollo-server": "^2.0.5",
+    "graphql": "^0.13.2"
+  }
+}
